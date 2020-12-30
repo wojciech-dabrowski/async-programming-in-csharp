@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming.csproj", "{28DE6FD5-18BB-4AF5-A580-6EB4940730D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming.Database", "AsyncProgramming.Database\AsyncProgramming.Database.csproj", "{4BF41F09-2E30-4A20-9653-CAEA968BAC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming\AsyncProgramming.csproj", "{3A44B692-2496-4603-8810-4F2E836E97D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28DE6FD5-18BB-4AF5-A580-6EB4940730D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28DE6FD5-18BB-4AF5-A580-6EB4940730D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28DE6FD5-18BB-4AF5-A580-6EB4940730D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28DE6FD5-18BB-4AF5-A580-6EB4940730D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF41F09-2E30-4A20-9653-CAEA968BAC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF41F09-2E30-4A20-9653-CAEA968BAC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF41F09-2E30-4A20-9653-CAEA968BAC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF41F09-2E30-4A20-9653-CAEA968BAC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A44B692-2496-4603-8810-4F2E836E97D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A44B692-2496-4603-8810-4F2E836E97D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A44B692-2496-4603-8810-4F2E836E97D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A44B692-2496-4603-8810-4F2E836E97D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
